@@ -11,9 +11,9 @@ In the project I used the K-Nearest Neighbors (KNN) algorithm, Random Forest alg
 
 2. Data Normalization - Applied StandardScaler to standardize feature values (mean = 0, std = 1).
 
-3. Model Building - Trained a K-Neighbors Classifier on the processed dataset.
+3. Model Building - Trained models on the processed dataset.
 
-4. Evaluation – The model achieved an accuracy of 96.6%, indicating strong predictive performance.
+4. Evaluation – The models achieved an accuracy of 96.7%, indicating strong predictive performance.
 
 5. Data Visualization – Created boxplots to explore feature distributions and detect potential outliers.
 
@@ -33,6 +33,6 @@ In the project I used the K-Nearest Neighbors (KNN) algorithm, Random Forest alg
 
 ## 📊 Result
 
-All models (KNN, RF and SVM) achieved the accuracy of 96.6%.
+All models (KNN, RF and SVM) achieved the accuracy of 96.7%.
 
 ANOVA Test: All features produced very small p-values (< 0.001), indicating high statistical significance and strong relevance to the target variable.
