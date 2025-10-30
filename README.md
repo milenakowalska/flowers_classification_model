@@ -3,7 +3,7 @@
 ## 📘 Project Overview
 
 This project is a simple machine learning experiment focused on classifying different types of flowers based on their features. It demonstrates the full workflow - from data exploration and preprocessing to model training and evaluation.
-In the project I used the K-Nearest Neighbors (KNN) algorithm.
+In the project I used the K-Nearest Neighbors (KNN) algorithm, Random Forest algorithm and Support Vector Machines (SVM) algorithm.
 
 ## 🔍 Steps
 
@@ -33,6 +33,6 @@ In the project I used the K-Nearest Neighbors (KNN) algorithm.
 
 ## 📊 Result
 
-Model's accuracy: 96.6%.
+All models (KNN, RF and SVM) achieved the accuracy of 96.6%.
 
 ANOVA Test: All features produced very small p-values (< 0.001), indicating high statistical significance and strong relevance to the target variable.
